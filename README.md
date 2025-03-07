@@ -68,7 +68,7 @@ SuperiorWay is designed for students and workers facing transportation challenge
 #### 💻 Tech Stack
 - **Frontend:** Flutter (cross-platform)
 - **Admin Panel:** React.js
-- **Backend:** Node.js/Django
+- **Backend:** Node.js
 - **Database:** Firebase Firestore / MySQL
 - **Integrations:** Google Maps API, Firebase Cloud Messaging
 
@@ -109,7 +109,7 @@ The Flutter app UI is designed to be clean, responsive, and easy to navigate, en
 
 #### 🎨 Design Breakdown
 1. **Login/Signup Page:**
-   - Firebase Authentication ensures secure login with email/password or Google sign-in.
+   - Authentication ensures secure login with email/password or Google sign-in.
    - A simple and structured form UI makes input fields accessible.
    - A button-based navigation guides users through authentication smoothly.
 2. **Home Page (Dashboard):**
